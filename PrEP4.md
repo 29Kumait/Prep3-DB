@@ -59,7 +59,7 @@
   - More intuitive for nested data like recipes with embedded steps or ingredients.
 
 **To sum up**: The choice depends on data complexity, scalability needs, and the potential for evolving data requirements. MongoDB is advantageous for a recipes database due to its flexibility and scalability, especially suitable for hierarchical data models.
-   ```
+   
 
 
 
